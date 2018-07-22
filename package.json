@@ -1,0 +1,19 @@
+{
+  "name": "relay-modern-network-deep-dive",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sibelius/relay-modern-network-deep-dive.git",
+  "author": "Sibelius Seraphini <sibeliusseraphini@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-relay": "^1.6.0",
+    "relay-runtime": "^1.6.0"
+  },
+  "devDependencies": {
+    "babel-plugin-relay": "^1.6.0",
+    "flow-bin": "^0.77.0",
+    "graphql": "^0.13.2",
+    "relay-compiler": "^1.6.0"
+  }
+}
