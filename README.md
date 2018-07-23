@@ -1,6 +1,7 @@
 # Relay Modern Network Deep Dive
 
 This repo provides incrementally more powerfull implementations to use in Relay Modern Network
+Read the Blog post about it: https://medium.com/@sibelius/relay-modern-network-deep-dive-ec187629dfd3
 
 # Simple
 Simple network fetch function that send a request (query, mutation) to a GraphQL server
